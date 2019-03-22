@@ -1,5 +1,5 @@
 # React-Native-First-Try
-First try of react native (Api call/fetch, navigation, stylesheets,...)
+First try of react native (Api call/fetch, navigation, Animation, stylesheets,...)
 
 ```
 npm install
